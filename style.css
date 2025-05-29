@@ -598,10 +598,10 @@ body {
 .top-img p {
   width: 60px;
   height: 25px;
-  background-color: rgb(246, 252, 245);
+  background-color: rgb(197, 3, 3);
   text-align: center;
   padding-top: 3px;
-  /* color: white; */
+  color: white;
   font-family: sans-serif;
 }
 .all-bott {
